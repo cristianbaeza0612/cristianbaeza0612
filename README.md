@@ -1,16 +1,12 @@
 ## Hi I'm Cristian :computer:
 
-![Cristian](https://github.com/cristianbaeza0612/images_readme/blob/ec3344c4f2684ca1b365a1d533476bcf72696ff6/banner/banner.gif)
+![Cristian](https://github.com/cristianbaeza0612/images_readme/blob/4846d818989544458fca84bf3a458f84b0d515e1/banner/banner.gif)
 
 :computer: Living in Spain 
 
 ### My Tech Stack
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
-![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+
 ![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
@@ -35,13 +31,17 @@
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
 
 ## About me :mortar_board:
-I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
+I am a fullstack developer, currently working on Soaint. From very early in my life, I started to fall in love with technology 😍 This love has helped me develop as a developer and has given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
 ## What I know :computer:
 - **Competitive Programming**
-	- Python ❤️
-	- C++
-	- Some Java
+	- ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+	![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+	![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+	![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
+	![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+	![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
+	![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
