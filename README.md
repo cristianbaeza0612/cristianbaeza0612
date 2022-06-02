@@ -40,13 +40,14 @@ I am a fullstack developer, currently working on Soaint. From very early in my l
 
 ## Projects :thinking:
 You can see my project in my GitHub :
+
 <Insert page>
 
 ## Reach me 
-[![Github](https://img.shields.io/github/followers/sarthakbh321?label=Follow&style=social)](https://github.com/Sarthakbh321)
-[![Instagram](https://img.shields.io/badge/-@sarthak_bharadwaj-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sarthak_bharadwaj_/)](https://www.instagram.com/sarthak_bharadwaj_/)
-[![Linkedin](https://img.shields.io/badge/-Sarthak%20Bharadwaj-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)
-[![Mail](https://img.shields.io/badge/-sarthakbh321@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/sarthak-bharadwaj-8552b5110/)](mailto:sarthakbh321@gmail.com)
+[![Github](https://img.shields.io/github/followers/cristianbaeza0612?label=Follow&style=social)](https://github.com/cristianbaeza0612)
+[![Instagram](https://img.shields.io/badge/-@cristianbaezabenitez-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cristianbaezabenitez/)](https://www.instagram.com/cristianbaezabenitez/)
+![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-baeza-benitez-40a504177/)
+[![Mail](https://img.shields.io/badge/-cristianbaezabenitez@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/cristian-baeza-benitez-40a504177/)](mailto:cristianbaezabenitez@gmail.com)
 
 ---
 ⭐️ From [Cristian](https://github.com/cristianbaeza0612)
