@@ -4,12 +4,6 @@
 
 :computer: Living in Spain 
 
-### My Tech Stack
-
-
-![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
-
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -39,14 +33,28 @@ I am a fullstack developer, currently working on Soaint. From very early in my l
 	![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 	![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 	![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
-	![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
 	![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 	![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+	- ![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
+	  - I use Amazon with **SERVERLESS** computing
+	  	- Amazon Lambda
+	  	- DynamoDB, Amzon RDS, Redshift
+	  	- S3, Glacier, EBS and EFS
+	 	- API Gateway
+	 	- SNS, SQS
+	 	- VPC
+	 	- Amazon Route 53
+	  - EC2
 - **Frontend Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
 	- React with Redux :electron:
 	- React Native
+- **Database**
+	- ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+	![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
+	![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+	![AWS-Database](https://img.shields.io/badge/-AWSDatabase-black?style=flat-square&logo=amazon)
 
 ## What I want to do next :thinking:
 - Backend Development (to become a Full-Stack developer)
