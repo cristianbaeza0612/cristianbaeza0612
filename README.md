@@ -41,6 +41,7 @@ I am a fullstack developer, currently working on Soaint. From very early in my l
 ## Projects :thinking:
 You can see my project in my GitHub :
 
+[![Projects](https://img.shields.io/static/v1?label=Projects&message=Projects&color=blue)](https://cristianbaeza0612.github.io/projects/)
 <Insert page>
 
 ## Reach me 
