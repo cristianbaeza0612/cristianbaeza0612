@@ -16,14 +16,7 @@ I am a fullstack developer, currently working on Soaint. From very early in my l
 	![Flutter](https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=flutter)
 	![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 	- ![Amazon](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon)
-	  - I use Amazon with **SERVERLESS** computing
-	  	- Amazon Lambda
-	  	- DynamoDB, Amzon RDS, Redshift
-	  	- S3, Glacier, EBS and EFS
-	 	- API Gateway
-	 	- SNS, SQS
-	 	- VPC
-	 	- Amazon Route 53
+	  - I use Amazon with **SERVERLESS** computing, you can see the technologies I use in  [![Projects](https://img.shields.io/static/v1?label=Projects&message=Projects&color=blue)](https://cristianbaeza0612.github.io/projects/)
 	  - EC2
 - **Frontend Development**
 	- ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
@@ -39,7 +32,7 @@ I am a fullstack developer, currently working on Soaint. From very early in my l
 	![AWS-Database](https://img.shields.io/badge/-AWSDatabase-black?style=flat-square&logo=amazon)
 
 ## Projects :thinking:
-You can see my project in my GitHub :
+You can see my projects in my GitHub :
 
 [![Projects](https://img.shields.io/static/v1?label=Projects&message=Projects&color=blue)](https://cristianbaeza0612.github.io/projects/)
 <Insert page>
