@@ -41,7 +41,6 @@ You can see my projects in my GitHub :
 [![Github](https://img.shields.io/github/followers/cristianbaeza0612?label=Follow&style=social)](https://github.com/cristianbaeza0612)
 [![Instagram](https://img.shields.io/badge/-@cristianbaezabenitez-red?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/cristianbaezabenitez/)](https://www.instagram.com/cristianbaezabenitez/)
 ![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/cristian-baeza-benitez-40a504177/)
-[![Mail](https://img.shields.io/badge/-cristianbaezabenitez@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=https://www.linkedin.com/in/cristian-baeza-benitez-40a504177/)](mailto:cristianbaezabenitez@gmail.com)
 
 ---
 ⭐️ From [Cristian](https://github.com/cristianbaeza0612)
