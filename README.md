@@ -1,3 +1,15 @@
+            /$$       /$$   /$$            /$$      
+           | $$      | $$  | $$           | $$      
+  /$$$$$$$ | $$$$$$$ | $$  | $$   /$$$$$$$| $$$$$$$ 
+ /$$_____/ | $$__  $$| $$$$$$$$  /$$_____/| $$__  $$
+| $$       | $$  \ $$|_____  $$ |  $$$$$$ | $$  \ $$
+| $$       | $$  | $$      | $$  \____  $$| $$  | $$
+|  $$$$$$$ | $$$$$$$/      | $$| /$$$$$$$/| $$  | $$
+ \_______/ |_______/       |__/ |_______/ |__/  |__/
+
+       [ CB4SH ] -- [ Youtube: @baezatech ]
+
+
 ## Hola! soy Cristian :computer:
 
 Mi objetivo no es solo enseñar, sino **aprender juntos**, cuestionar lo establecido y mejorar paso a paso como profesionales del sector.
